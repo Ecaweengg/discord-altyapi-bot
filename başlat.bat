@@ -1,5 +1,5 @@
-echo off
-color 0f
+echo on
+color RED
 cls
 :a
 node bot.js
